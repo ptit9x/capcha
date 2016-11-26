@@ -1,0 +1,19 @@
+{
+  "name": "coupons",
+  "version": "1.0.0",
+  "description": "Admin coupons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/ngochuynh1991/coupons.git"
+  },
+  "author": "huynhdn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/ngochuynh1991/coupons/issues"
+  },
+  "homepage": "https://gitlab.com/ngochuynh1991/coupons#README"
+}
